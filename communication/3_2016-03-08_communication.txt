@@ -1,0 +1,17 @@
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第3周（周一）
+what:如何解决轮询机制而导致的高延迟问题
+how long:1
+arrived solution:创建download文档存储API获取的信息
+
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第3周（周一）
+what:如何解决轮询机制而导致的高延迟问题
+how long:3
+arrived solution:放弃GitMining的API接口，直接使用github的API接口
+
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第3周（周三）
+what:如何将数据在GUI表现出来
+how long:2
+arrived solution:为了更好的展示效果，放弃本来决定的jtable列表显示法，采用多个jpanel依次向下排列的方法显示。

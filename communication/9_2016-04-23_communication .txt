@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第9周（周六）
+what:讨论迭代3的详细设计
+how long:2
+arrived solution:使用数据库，用统计方法分析数据

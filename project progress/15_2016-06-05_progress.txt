@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十五周
+what:实现迭代3与测试
+problem:
+todo:测试
+
+who:蔡新宇
+when:第十五周
+what:实现迭代3与测试
+problem:数据处理时间长导致页面打开较慢
+todo:测试，改进
+
+who：白国风：
+when：第十五周
+what：指导队员在presentation层体现新功能
+problem：效率不高
+todo：完成并测试，打包，提交

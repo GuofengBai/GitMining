@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十四周
+what:实现迭代3
+problem:
+todo:测试
+
+who:蔡新宇
+when:第十四周
+what:实现迭代3
+problem:数据量过大，处理时间长
+todo:测试
+
+who：白国风
+when：第十四周
+what：设计能够根据commits信息体现一个repository工作效率的功能，改写bl和data层，提供支持该功能的相关接口
+problem：数据量太大，commits数据有几百万条，处理时间略长
+todo：继续实现

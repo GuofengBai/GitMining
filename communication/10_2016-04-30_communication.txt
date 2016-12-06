@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第10周（周六）
+what:讨论数据库选取
+how long:0.5
+arrived solution:使用MySQL

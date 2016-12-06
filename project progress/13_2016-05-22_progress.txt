@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十三周
+what:下载commits数据
+problem:速度很慢
+todo:继续实现迭代三
+
+who:蔡新宇
+when:第十三周
+what:下载commits数据
+problem:下载速度很慢，需要一直运行程序
+todo:继续实现迭代三
+
+who：白国风
+when：第十三周
+what：改写bl层，新增根据contributors推荐相关repos，以及根据参与项目推荐coworkers的功能
+problem：数据不全，有些String值为空，需要判断
+todo：实现更多功能

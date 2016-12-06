@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第12周（周日）
+what:数据库究竟应该具备什么信息，应该从网上下载多少数据
+how long:1
+arrived solution:从gitmining下载所有repository，user，和所有commits的信息

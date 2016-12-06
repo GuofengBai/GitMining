@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十二周
+what:开始实现迭代3
+problem:数据量过大
+todo:下载commits数据
+
+who:蔡新宇
+when:第十二周
+what:开始实现迭代3
+problem:数据量过大
+todo:下载commits数据
+
+who：白国风
+when：第十二周
+what：重新设计并改写data层相关接口的实现，将下载下来的数据经过处理后写入数据库
+problem：相似功能代码太多，混乱冗杂，需要精简设计
+todo：继续data层，准备bl层

@@ -1,0 +1,5 @@
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第1周（周末）
+what:讨论关于项目选题的决定
+how long:0.5
+arrived solution:全力完成GitMining，业余时间尝试AnyQuant

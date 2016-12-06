@@ -1,0 +1,11 @@
+who:安昕瑜
+when:第八周
+what:绘制图表、测试
+problem:性能问题
+todo:开始迭代三
+
+who:蔡新宇
+when:第八周
+what:绘制repo部分图表、测试
+problem:性能问题，组距设置，图标类型选择，图标样式单一
+todo:开始迭代三

@@ -1,0 +1,15 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第5周（周一）
+what:图表接口选用jchartlib，还是echart_java，还是其他，哪种好实现。
+how long:2
+arrived solution:选用JFreeChart
+
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第5周（周四）
+what:Iteration 2中需要展现的统计信息
+how long:1.5
+arrived solution:根据GitMining的homework2.pdf中的要求和实际情况，展现：
+单个项目contributors,commit,issue,pull request信息进行拍卖，计算得分
+统计项目创建时间、使用语言、fork、star信息的分布
+统计用户类型、注册时间、参与项目数、创建项目数、所属公司
+等等

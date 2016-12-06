@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第8周（周六）
+what:讨论迭代2的完成程度
+how long:0.5
+arrived solution:进行总结

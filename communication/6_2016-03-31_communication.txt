@@ -1,0 +1,6 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第6周（周四）
+what:讨论需要download到本地的数据
+how long:2
+arrived solution:项目的contributors,commit,issue,pull request,创建时间,language,forks,stars
+用户的name,followers,following,创建时间,company等，本地以txt格式进行保存，实际操作时灵活改变

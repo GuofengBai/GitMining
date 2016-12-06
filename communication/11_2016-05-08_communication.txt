@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第11周（周日）
+what:迭代三开发中要解决的问题
+how long:1
+arrived solution:API访问速度，数据库速度等

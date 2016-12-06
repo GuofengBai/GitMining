@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十一周
+what:学习MySQL
+problem:难度
+todo:开始实现迭代三
+
+who:蔡新宇
+when:第十一周
+what:学习使用MySQL
+problem:没有进行实现迭代三
+todo:开始实现迭代三
+
+who：白国风
+when：第十一周
+what：安排下载任务，全力下载commits数据，并在发生故障无法继续下载时予以解决
+problem：gitmining数据有所缺失，有些数据格式不统一，下载过程常常终止，重新下载时还要解决数据重复的问题
+todo：完成下载

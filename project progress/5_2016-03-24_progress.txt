@@ -1,0 +1,23 @@
+who:安昕瑜
+when:第五周
+what:学习图表组件JFreeChart的使用
+problem:学习过程
+todo:迭代2开始
+
+who:曹江湖
+when:第五周
+what:学习图表组件JfreeChart的使用
+problem:学习过程
+todo:迭代2开始
+
+who:蔡新宇
+when:第五周
+what:学习图表组件JfreeChart的使用
+problem:学习过程，没有进行实践
+todo:迭代2开始
+
+who:白国风
+when:第五周
+what:学习jfreechart并实践，思考数据来源的问题。api.github.com的数据无疑要更加丰富多样，而且下载速度快，但是有request rate limit的限制，暂时没有想到方法解决。只能从gitmining.net获取了。
+problem:参考api.github.com的开发人员文档，探索怎样使用oauth authentication来突破request的限制，学习了curl的相关操作，仍然无果
+todo:暂时放下数据源的考虑，先从gitmining.net抓数据

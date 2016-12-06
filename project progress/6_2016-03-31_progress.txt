@@ -1,0 +1,23 @@
+who:安昕瑜
+when:第六周
+what:开始Iteration 2的设计
+problem:数据的分类与展现
+todo:Iteration 2实现
+
+who:曹江湖
+when:第六周
+what:建立本地数据并下载数据
+problem:时间太长了
+todo:Iteration 2实现
+
+who:蔡新宇
+when:第六周
+what:开始分析需要统计的数据及展示方式
+problem:数据的分类，区间划分与展现
+todo:具体统计实现
+
+who:白国风
+when:第六周
+what:决定需要统计的数据类型，设计了需要序列化存储的各个PO，并与曹江湖一起探讨了该全部下载的数据和该抽样调查地数据的区分
+problem:操作系统实验迭代一deadline临近，大家都忙于最后赶工OS作业，打乱了cseiii迭代二的节奏，本周进展缓慢
+todo:全面下载数据，展开分析，结果保存成文件

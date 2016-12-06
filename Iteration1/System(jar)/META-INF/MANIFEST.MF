@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: servlet.jar jna-4.1.0.jar junit-4.11.jar jfreesvg-2.0.jar 
+ json-20160212.jar swtgraphics2d.jar httpcore-4.4.4.jar httpmime-4.5.2
+ .jar jcommon-1.0.23.jar fluent-hc-4.5.2.jar httpclient-4.5.2.jar comm
+ ons-codec-1.9.jar hamcrest-core-1.3.jar jfreechart-1.0.19.jar orsonpd
+ f-1.6-eval.jar jna-platform-4.1.0.jar commons-logging-1.2.jar httpcli
+ ent-win-4.5.2.jar jfreechart-1.0.19-swt.jar httpclient-cache-4.5.2.ja
+ r orsoncharts-1.4-eval-nofx.jar jfreechart-1.0.19-experimental.jar ju
+ nit-3.8.1.jar
+Main-Class: cseiii_GitMining.Main
+

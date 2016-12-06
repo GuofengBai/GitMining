@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第十周
+what:初步设计迭代三
+problem:数据库的选用
+todo:学习数据库
+
+who:蔡新宇
+when:第十周
+what:初步设计迭代三
+problem:数据库的选用
+todo:学习数据库
+
+who:白国风
+when：第十周
+what：准备数据库技术，下载并指导队员安装配置MySQL，创建scheme，设计table结构
+problem：原来用序列化存储的数据过多，结构混乱，需重新设计存储结构
+todo：设计数据库

@@ -1,0 +1,27 @@
+1、点击顶部导航栏中的Repository，可以获取所有仓库的列表（一页10个，列表项中显示full_name,description,updated_at,language,stars,forks信息）；
+2、可以根据stars和forks对仓库列表排序；
+3、可以搜索full_name包含字段key的仓库，显示搜索结果的列表（结果默认按照stars排序，且不支持其他排序）；
+4、可以单击仓库列表中的某一仓库名查看该仓库的具体信息；
+5、仓库具体信息包含如下：
+（1）仓库commits，issues，pull_requests，stars，forks，contributors六项指标的衡量结果，
+	以雷达图的形式展示，每一轴数值代表该项指标在所有仓库中的排名百分比，最大为1
+（2）仓库contributors列表，可以通过双击列表中某一列查看该user的详细信息
+（3）仓库基本信息：full_name,owner_name,html_url,description,stars,forks,contributors,watchers,language
+6、在仓库具体信息页面，点击back，可回退至上一页面
+7、点击顶部导航栏中的User，获取所有user列表；
+8、搜索user_name含字段key的user，显示搜搜结果的列表；
+9、单击列表中user名查看该user具体信息；
+10、user具体信息如下：
+（1）该user拥有的仓库列表（可通过双击此列表中某一列查看该仓库具体信息）
+（2）该user曾参与的仓库列表（同上）
+（3）user基本信息：ID,login，name，type，company，location，email，blog，bio，followers，following
+11、在user具体信息页面，点击back，可回退至上一页面
+12、点击导航栏中Repos statistic可以查看所有关于仓库的统计图表，包括语言分布，
+	创建年份分布，contributors数量分布，collaborators数量分布，fork项目所占百分比，
+	forks分布，owner_type比例，size分布，stars分布，subscribers分布，stars与forks的散点图
+        （部分图表可以用鼠标拖拽，滚轮滑动的方式互动）
+13、点击导航栏中User statistic可以查看所有关于user的统计图表，包括user_type比例，
+	创建年份分布，拥有仓库量分布，参与仓库量分布，城市分布，公司分布，国家分布，gists分布，
+	followers分布，following分布
+	（部分图表可以用鼠标拖拽，滚轮滑动的方式互动）
+

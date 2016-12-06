@@ -1,0 +1,17 @@
+who:安昕瑜
+when:第四周
+what:测试repositoryui与集成测试
+problem:界面美观程度
+todo:迭代2计划
+
+who:曹江湖
+when:第四周
+what:思考数据来源的问题
+problem:GitHub的API接口不支持多次访问
+todo:更改数据来源
+
+who:蔡新宇
+when:第四周
+what:测试userui与集成测试
+problem:界面美观，界面跳转慢
+todo:迭代2计划

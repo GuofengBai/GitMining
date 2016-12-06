@@ -1,0 +1,17 @@
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第2周(周三)
+what:项目的技术基础，如何从网站请求API
+how long:2
+arrived solution:全员理解请求API的基本原理
+
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第2周(周六)
+what:界面间的跳转关系，界面的内容安排，接口的设计，VO类的设计
+how long:3
+arrived solution:界面跳转用ViewController控制，内容安排先模仿gitmining.net。接口吸取上学期大作业的分层技术经验，数据层与网站交互，业务逻辑层处理数据并提供给展示层。VO类主要有RepositryListLineItem,UserListLineItem,RepositryVO,UserVO.
+
+who:安昕瑜，白国风，蔡新宇，曹江湖
+when:第2周（周日）
+what:如何获取所有User的列表
+how long:1
+arrived solution:通过对repo列表的逐个扫描，获取所有的User，并进行筛选，合成新列表

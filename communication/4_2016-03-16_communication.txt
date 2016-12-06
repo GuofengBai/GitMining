@@ -1,0 +1,5 @@
+who:安昕瑜、白国风、蔡新宇、曹江湖
+when:第4周（周三）
+what:项目打包与部署
+how long:0.5
+arrived solution:直接使用github的API接口作为测试数据，不准备另外的测试数据
